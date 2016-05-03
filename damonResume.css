@@ -12,6 +12,18 @@ h1 {
   text-align: center;
 }
 
+svg {
+  display: block;
+  margin: 0 auto;
+}
+circle {
+  fill: white;
+}
+
+circle:hover {
+  fill: yellow;
+}
+
 h2 {
   color: white;
   font-family: 'Helvetica Neue',  sans-serif;
