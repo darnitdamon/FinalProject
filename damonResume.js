@@ -5,8 +5,6 @@ var rightBtn = document.getElementById('right');
 var topBtn = document.getElementById('top');
 var bottomBtn = document.getElementById('bottom');
 var randomBtn = document.getElementById('random');
-
-
 var cube = document.getElementById('cube');
 
 function rotateFront() {
